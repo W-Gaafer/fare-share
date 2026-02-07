@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fare-share/static/css/main.7b371721.css",
+    "main.css": "/fare-share/static/css/main.f3c689c2.css",
     "main.js": "/fare-share/static/js/main.2e284b98.js",
     "index.html": "/fare-share/index.html",
-    "main.7b371721.css.map": "/fare-share/static/css/main.7b371721.css.map",
+    "main.f3c689c2.css.map": "/fare-share/static/css/main.f3c689c2.css.map",
     "main.2e284b98.js.map": "/fare-share/static/js/main.2e284b98.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b371721.css",
+    "static/css/main.f3c689c2.css",
     "static/js/main.2e284b98.js"
   ]
 }
