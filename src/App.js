@@ -6,7 +6,6 @@ import FriendsList from "./components/FriendList";
 import FormAddFriend from "./components/AddFriendForm";
 import FormSplitBill from "./components/BillSplitForm";
 import Button from "./components/Button";
-import Footer from "./components/Footer";
 
 function App() {
   const [friends, setFriends] = useState(initialFriends);
